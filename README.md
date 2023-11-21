@@ -18,9 +18,7 @@ echo "Key generation completed. Private key saved as $private_key_file and publi
 	    
 And it looks like the screenshot below.
 
-<img width="688" alt="Screenshot 2023-11-21 at 16 57 20" src="https://github.com/ab-dum/Encryption-Decryption/assets/141356115/4f1888db-7eee-4048-bf76-80c44b987d8f">
-
- 
+<img width="688" alt="Screenshot 2023-11-21 at 16 57 20" src="https://github.com/ab-dum/Encryption-Decryption-Project/assets/141356115/65e4f3e9-9823-4c64-a0de-1d4b3f28c030">
 
 To make key_generation.sh file executable we should write the below commands to the terminal. 
 
@@ -82,7 +80,8 @@ print(f"Encrypting Message saved to {output_file_path}")
 
 Then the visitor sends the encrypted message below to ceu.edu via e-mail.
 
-<img width="687" alt="Screenshot 2023-11-22 at 01 32 44" src="https://github.com/ab-dum/Encryption-Decryption/assets/141356115/6ae9e04d-2b42-44ae-b9f0-2b7571fb40de">
+<img width="687" alt="Screenshot 2023-11-22 at 01 32 44" src="https://github.com/ab-dum/Encryption-Decryption-Project/assets/141356115/6013ff87-18df-4358-83c1-7d63524197d6">
+
 
  
 Ceu.edu uses the following python function and its private key to decode this encrypted message.
